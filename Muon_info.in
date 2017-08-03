@@ -39,7 +39,7 @@ DiscrIfIsZdecay 0
 DiscrByMetDphi 0
 MetDphiCut 1.0 3.15
 
-DiscrByMetMt 1
+DiscrByMetMt 0
 MetMtCut 110. 10000.
 
 ////////////////////////////////
@@ -64,5 +64,5 @@ DiscrIfIsZdecay 0
 DiscrByMetDphi 0
 MetDphiCut 1.30 3.15
 
-DiscrByMetMt 1
+DiscrByMetMt 0
 MetMtCut 110. 10000.
